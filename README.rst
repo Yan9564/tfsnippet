@@ -3,11 +3,6 @@ TFSnippet
 
 This is a clone from haowen-xu/tfsnippet, and I have made some revisions to suit the Python version upto date
 
-Dependencies
-------------
-
-TensorFlow >= 1.5
-
 Installation
 ------------
 
@@ -15,7 +10,8 @@ Installation
 
     pip install git+https://github.com/Yan9564/tfsnippet.git
 
-Documentation
+
+Modifications
 -------------
 
 * `Tutorials and API docs <http://tfsnippet.readthedocs.io/>`_
