@@ -16,10 +16,11 @@ Modifications
 
 before:
 
-tfsnippet/utils/type_utils.py
+
 
 .. code-block:: python
 
+   # tfsnippet/utils/type_utils.py
     __INTEGER_TYPES = (
     six.integer_types +
     (np.integer, int, np.uint,
