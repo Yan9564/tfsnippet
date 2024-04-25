@@ -36,7 +36,7 @@ Installation
 
 .. code-block:: bash
 
-    pip install git+https://github.com/haowen-xu/tfsnippet.git
+    pip install git+https://github.com/Yan9564/tfsnippet.git
 
 Documentation
 -------------
