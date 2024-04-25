@@ -26,6 +26,7 @@ before:
      np.uint8, np.uint16, np.uint32, np.uint64)
 
 after:
+
 .. code-block:: python
 
    # tfsnippet/utils/type_utils.py
@@ -36,6 +37,7 @@ after:
      np.uint8, np.uint16, np.uint32, np.uint64)
 
 before:
+
 .. code-block:: python
    # tfsnippet/utils/type_utils.py
    __FLOATING_TYPES = (
@@ -45,6 +47,7 @@ before:
 )
 
 after:
+
 .. code-block:: python
    # tfsnippet/utils/type_utils.py
    __FLOATING_TYPES = (
