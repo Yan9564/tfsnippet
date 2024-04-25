@@ -16,12 +16,20 @@ Modifications
 
 before:
 
+tfsnippet/utils/type_utils.py
+
 .. code-block:: python
 
-    import tfsnippet as spt
+    __INTEGER_TYPES = (
+    six.integer_types +
+    (np.integer, int, np.uint,
+     np.int8, np.int16, np.int32, np.int64,
+     np.uint8, np.uint16, np.uint32, np.uint64)
+  __FLOATING_TYPES = (
+    float,
+    float,
+    np.float16, np.float32, np.float64,
+)
 
 
-    # You may also obtain the distribution instance back from the samples,
-    # such that you may fire-and-forget the distribution instance!
-    distribution = samples.distribution
 
