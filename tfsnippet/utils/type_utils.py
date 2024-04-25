@@ -24,7 +24,7 @@ __INTEGER_TYPES = (
 )
 __FLOATING_TYPES = (
     float,
-    np.float,
+    float,
     np.float16, np.float32, np.float64,
 )
 
