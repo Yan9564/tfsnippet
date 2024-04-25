@@ -14,7 +14,7 @@ Installation
 Modifications
 -------------
 
-# 1
+1. tfsnippet/utils/type_utils.py
 before:
 
 .. code-block:: python
