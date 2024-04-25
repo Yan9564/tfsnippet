@@ -15,6 +15,7 @@ Modifications
 -------------
 
 before:
+
 .. code-block:: python
 
    # tfsnippet/utils/type_utils.py
