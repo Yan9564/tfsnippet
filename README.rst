@@ -3,25 +3,6 @@ TFSnippet
 
 This is a clone from haowen-xu/tfsnippet, and I have made some revisions to suit the Python version upto date
 
-.. |stable_build| image:: https://travis-ci.org/haowen-xu/tfsnippet.svg?branch=stable
-    :target: https://travis-ci.org/haowen-xu/tfsnippet
-.. |stable_cover| image:: https://coveralls.io/repos/github/haowen-xu/tfsnippet/badge.svg?branch=stable
-    :target: https://coveralls.io/github/haowen-xu/tfsnippet?branch=stable
-.. |stable_doc| image:: https://readthedocs.org/projects/tfsnippet/badge/?version=stable
-    :target: http://tfsnippet.readthedocs.io/en/stable/
-.. |develop_build| image:: https://travis-ci.org/haowen-xu/tfsnippet.svg?branch=develop
-    :target: https://travis-ci.org/haowen-xu/tfsnippet
-.. |develop_cover| image:: https://coveralls.io/repos/github/haowen-xu/tfsnippet/badge.svg?branch=develop
-    :target: https://coveralls.io/github/haowen-xu/tfsnippet?branch=develop
-.. |develop_doc| image:: https://readthedocs.org/projects/tfsnippet/badge/?version=latest
-    :target: http://tfsnippet.readthedocs.io/en/latest/
-
-TFSnippet is a set of utilities for writing and testing TensorFlow models.
-
-The design philosophy of TFSnippet is `non-interfering`.  It aims to provide a
-set of useful utilities, possible to be used along with any other TensorFlow
-libraries and frameworks.
-
 Dependencies
 ------------
 
