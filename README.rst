@@ -39,6 +39,7 @@ after:
 before:
 
 .. code-block:: python
+
    # tfsnippet/utils/type_utils.py
    __FLOATING_TYPES = (
      float,
@@ -49,6 +50,7 @@ before:
 after:
 
 .. code-block:: python
+
    # tfsnippet/utils/type_utils.py
    __FLOATING_TYPES = (
      float,
