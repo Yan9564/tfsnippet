@@ -44,8 +44,7 @@ before:
    __FLOATING_TYPES = (
      float,
      np.float,
-     np.float16, np.float32, np.float64,
-)
+     np.float16, np.float32, np.float64,)
 
 after:
 
@@ -55,7 +54,6 @@ after:
    __FLOATING_TYPES = (
      float,
      float,
-     np.float16, np.float32, np.float64,
-)
+     np.float16, np.float32, np.float64,)
 
 
