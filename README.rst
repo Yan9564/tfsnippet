@@ -38,6 +38,8 @@ after:
      np.int8, np.int16, np.int32, np.int64,
      np.uint8, np.uint16, np.uint32, np.uint64)
 
+**2. tfsnippet/utils/type_utils.py**
+
 before:
 
 .. code-block:: python
