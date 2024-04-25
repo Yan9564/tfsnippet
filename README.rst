@@ -1,11 +1,7 @@
 TFSnippet
 =========
 
-+---------+-----------------+-----------------+---------------+
-| Stable  | |stable_build|  | |stable_cover|  | |stable_doc|  |
-+---------+-----------------+-----------------+---------------+
-| Develop | |develop_build| | |develop_cover| | |develop_doc| |
-+---------+-----------------+-----------------+---------------+
+This is a clone from haowen-xu/tfsnippet, and I have made some revisions to suit the Python version upto date
 
 .. |stable_build| image:: https://travis-ci.org/haowen-xu/tfsnippet.svg?branch=stable
     :target: https://travis-ci.org/haowen-xu/tfsnippet
