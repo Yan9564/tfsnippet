@@ -1,7 +1,7 @@
 TFSnippet
 =========
 
-This is a clone from haowen-xu/tfsnippet, and I have made some revisions to suit the Python version upto date
+This is a clone from haowen-xu/tfsnippet, and I have made some revisions to suit the Python version upto date. Migrate the TensorFlow code from TensorFlow 1.x to TensorFlow 2.
 
 Installation
 ------------
